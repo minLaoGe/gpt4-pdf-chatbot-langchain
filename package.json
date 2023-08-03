@@ -4,7 +4,7 @@
   "private": true,
   "license": "MIT",
   "author": "Mayooear<twitter:@mayowaoshin>",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
